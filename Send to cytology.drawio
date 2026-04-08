@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="YP7kIIQNfR1vj4lg6SZr">
-    <mxGraphModel dx="1003" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1543" dy="1271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,6 +185,15 @@
         </mxCell>
         <mxCell id="bxFy7CaDPyTd94-P2SVN-61" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Has open cytology window?" vertex="1">
           <mxGeometry height="90" width="90" x="230" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="51WipM7CdXJuODHPcrEL-1" parent="1" style="shape=card;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="It is suspected that for followup this will become more complex but no requirements yet" vertex="1">
+          <mxGeometry height="70" width="130" x="70" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="51WipM7CdXJuODHPcrEL-3" edge="1" parent="1" source="51WipM7CdXJuODHPcrEL-1" style="curved=1;endArrow=oval;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.354;entryY=0.15;entryDx=0;entryDy=0;dashed=1;endFill=1;entryPerimeter=0;" target="bxFy7CaDPyTd94-P2SVN-61" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="210" y="605" as="sourcePoint" />
+            <mxPoint x="280.71067811865476" y="555" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
