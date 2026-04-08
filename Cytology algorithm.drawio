@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Dw-cp0xGPzXvyd5Rb6V_">
-    <mxGraphModel dx="1433" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1543" dy="1271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,7 +15,7 @@
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-5" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-51">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="250" as="targetPoint" />
+            <mxPoint x="270" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-6" connectable="0" parent="H1-bToI2TlLsrFoPRkXD-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No&lt;div&gt;(colpo visit)&lt;/div&gt;" vertex="1">
@@ -25,7 +25,7 @@
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-7" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="250" as="targetPoint" />
+            <mxPoint x="580" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-8" connectable="0" parent="H1-bToI2TlLsrFoPRkXD-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
@@ -34,11 +34,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Is sample from a cytology visit?" vertex="1">
-          <mxGeometry height="120" width="124" x="658" y="130" as="geometry" />
+          <mxGeometry height="120" width="124" x="658" y="330" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-10" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="330" as="targetPoint" />
+            <mxPoint x="500" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-11" connectable="0" parent="H1-bToI2TlLsrFoPRkXD-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
@@ -48,7 +48,7 @@
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-12" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-45">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="780" as="targetPoint" />
+            <mxPoint x="660" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-13" connectable="0" parent="H1-bToI2TlLsrFoPRkXD-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
@@ -57,11 +57,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="unsat?" vertex="1">
-          <mxGeometry height="80" width="80" x="680" y="650" as="geometry" />
+          <mxGeometry height="80" width="80" x="680" y="850" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-15" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-47">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="440" as="targetPoint" />
+            <mxPoint x="630" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-16" connectable="0" parent="H1-bToI2TlLsrFoPRkXD-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
@@ -71,7 +71,7 @@
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-17" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="450" as="targetPoint" />
+            <mxPoint x="380" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-18" connectable="0" parent="H1-bToI2TlLsrFoPRkXD-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No&lt;div&gt;(normal result)&lt;/div&gt;" vertex="1">
@@ -80,11 +80,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Abnormal result" vertex="1">
-          <mxGeometry height="80" width="80" x="478" y="940" as="geometry" />
+          <mxGeometry height="80" width="80" x="478" y="1140" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-20" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="593.12" y="910" as="targetPoint" />
+            <mxPoint x="593.12" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-21" connectable="0" parent="H1-bToI2TlLsrFoPRkXD-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
@@ -94,7 +94,7 @@
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-22" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="193.12" y="910" as="targetPoint" />
+            <mxPoint x="193.12" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-23" connectable="0" parent="H1-bToI2TlLsrFoPRkXD-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
@@ -103,11 +103,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-19" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Participant in colpo?" vertex="1">
-          <mxGeometry height="100" width="100" x="320" y="1000" as="geometry" />
+          <mxGeometry height="100" width="100" x="320" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-25" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="1280" as="targetPoint" />
+            <mxPoint x="310" y="1480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-27" connectable="0" parent="H1-bToI2TlLsrFoPRkXD-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
@@ -117,7 +117,7 @@
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-26" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="93.12" y="1010" as="targetPoint" />
+            <mxPoint x="93.12" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-28" connectable="0" parent="H1-bToI2TlLsrFoPRkXD-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
@@ -126,60 +126,60 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-24" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Case review awaiting decision?" vertex="1">
-          <mxGeometry height="100" width="95.25" x="194.75" y="1090" as="geometry" />
+          <mxGeometry height="100" width="95.25" x="194.75" y="1290" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-34" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Add decision of &lt;i&gt;Exit Case Review&lt;/i&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="50" y="1170" as="geometry" />
+          <mxGeometry height="60" width="120" x="50" y="1370" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-35" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Set case review status = Completed" vertex="1">
-          <mxGeometry height="60" width="120" x="50" y="1240" as="geometry" />
+          <mxGeometry height="60" width="120" x="50" y="1440" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Set case review end date = today" vertex="1">
-          <mxGeometry height="60" width="120" x="50" y="1320" as="geometry" />
+          <mxGeometry height="60" width="120" x="50" y="1520" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Event Type = Normal cytology (cytology visit)&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Outcome =&amp;nbsp;&lt;/span&gt;No cytology or colposcopy referral necessary&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="257.5" x="106" y="1450" as="geometry" />
+          <mxGeometry height="60" width="257.5" x="106" y="1650" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-38" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-41" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-36">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="411.87" y="1310" as="targetPoint" />
+            <mxPoint x="411.87" y="1510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="do nothing" vertex="1">
-          <mxGeometry height="40" width="100" x="320" y="1340" as="geometry" />
+          <mxGeometry height="40" width="100" x="320" y="1540" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Event Type = Unsat cytology (cytology visit)&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Outcome =&amp;nbsp;&lt;/span&gt;Sent for Cytology Sample&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="237.5" x="601.25" y="960" as="geometry" />
+          <mxGeometry height="60" width="237.5" x="601.25" y="1160" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-46" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-43">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="930" as="targetPoint" />
+            <mxPoint x="750" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-45" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; text-align: center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Send to Cytology&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;Case Review Reason =&amp;nbsp;Citología&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="235" x="602.5" y="820" as="geometry" />
+          <mxGeometry height="80" width="235" x="602.5" y="1020" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-49" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-47" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; text-align: center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Send to Colpo&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;Case Review Reason =&amp;nbsp;Citología&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;br&gt;&lt;div&gt;Colpo Aim = Lesions&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="235" x="543.12" y="1130" as="geometry" />
+          <mxGeometry height="100" width="235" x="543.12" y="1330" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Event Type = Abnormal cytology (cytology visit)&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Outcome =&amp;nbsp;&lt;/span&gt;Send to colposcopy&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="261.25" x="530" y="1270" as="geometry" />
+          <mxGeometry height="60" width="261.25" x="530" y="1470" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-54" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-58">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="320" as="targetPoint" />
+            <mxPoint x="70" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-55" connectable="0" parent="H1-bToI2TlLsrFoPRkXD-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
@@ -196,20 +196,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-51" parent="1" style="rhombus;whiteSpace=wrap;html=1;spacingTop=9;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" value="Does&lt;div&gt;CR decision&lt;/div&gt;&lt;div&gt;&amp;nbsp;for original colpo&lt;/div&gt;&lt;div&gt;&amp;nbsp;visit have the&lt;/div&gt;&lt;div&gt;needs cytology&lt;/div&gt;&lt;div&gt;&amp;nbsp;flag?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="140" x="201.5" y="210" as="geometry" />
+          <mxGeometry height="120" width="140" x="201.5" y="410" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-60" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="H1-bToI2TlLsrFoPRkXD-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="do nothing" vertex="1">
-          <mxGeometry height="40" width="100" x="108.75" y="320" as="geometry" />
+          <mxGeometry height="40" width="100" x="108.75" y="520" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Event Type = Colpo visit did not need cytology&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Outcome =&amp;nbsp;&lt;/span&gt;No action needed&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="257.5" x="30" y="410" as="geometry" />
+          <mxGeometry height="60" width="257.5" x="30" y="610" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-62" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-67">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="310" as="targetPoint" />
+            <mxPoint x="400" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-63" connectable="0" parent="H1-bToI2TlLsrFoPRkXD-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No&lt;div&gt;(normal result)&lt;/div&gt;" vertex="1">
@@ -219,7 +219,7 @@
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-73" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="H1-bToI2TlLsrFoPRkXD-71">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="540" as="targetPoint" />
+            <mxPoint x="520" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-74" connectable="0" parent="H1-bToI2TlLsrFoPRkXD-73" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
@@ -228,25 +228,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-61" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Abnormal result" vertex="1">
-          <mxGeometry height="80" width="80" x="305" y="480" as="geometry" />
+          <mxGeometry height="80" width="80" x="305" y="680" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-66" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="H1-bToI2TlLsrFoPRkXD-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="do nothing" vertex="1">
-          <mxGeometry height="40" width="100" x="94.75" y="500" as="geometry" />
+          <mxGeometry height="40" width="100" x="94.75" y="700" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Event Type = Normal cytology (colpo visit)&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Outcome =&amp;nbsp;&lt;/span&gt;No action needed&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="229.5" x="30" y="580" as="geometry" />
+          <mxGeometry height="60" width="229.5" x="30" y="780" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-70" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-71" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; text-align: center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Send to Colpo&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;Case Review Reason =&amp;nbsp;Citología&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;br&gt;&lt;div&gt;Colpo Aim = Lesions&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="235" x="227.51" y="660" as="geometry" />
+          <mxGeometry height="100" width="235" x="227.51" y="860" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Event Type = Abnormal cytology (colpo visit)&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Outcome =&amp;nbsp;&lt;/span&gt;Send to colposcopy&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="261.25" x="214.38" y="790" as="geometry" />
+          <mxGeometry height="60" width="261.25" x="214.38" y="990" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-78" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="H1-bToI2TlLsrFoPRkXD-61">
           <mxGeometry relative="1" as="geometry" />
@@ -258,7 +258,7 @@
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-80" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="H1-bToI2TlLsrFoPRkXD-83">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="350" as="targetPoint" />
+            <mxPoint x="620" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-81" connectable="0" parent="H1-bToI2TlLsrFoPRkXD-80" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
@@ -267,16 +267,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-75" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="unsat?" vertex="1">
-          <mxGeometry height="80" width="80" x="420" y="310" as="geometry" />
+          <mxGeometry height="80" width="80" x="420" y="510" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-82" edge="1" parent="1" source="H1-bToI2TlLsrFoPRkXD-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="H1-bToI2TlLsrFoPRkXD-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-83" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="do nothing" vertex="1">
-          <mxGeometry height="40" width="100" x="512.5" y="400" as="geometry" />
+          <mxGeometry height="40" width="100" x="512.5" y="600" as="geometry" />
         </mxCell>
         <mxCell id="H1-bToI2TlLsrFoPRkXD-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Event Type = Unsat cytology (colpo visit)&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Outcome = Unsat cytology&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="257.5" x="433.75" y="490" as="geometry" />
+          <mxGeometry height="60" width="257.5" x="433.75" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="xXMeBKRR8OWkmtNRmmLZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Event Type = Will never get results&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Outcome =&amp;nbsp;&lt;/span&gt;Sent for Cytology Sample&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="237.5" x="40" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="xXMeBKRR8OWkmtNRmmLZ-2" edge="1" parent="1" source="xXMeBKRR8OWkmtNRmmLZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="xXMeBKRR8OWkmtNRmmLZ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="188.75" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXMeBKRR8OWkmtNRmmLZ-3" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; text-align: center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Send to Cytology&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;Case Review Reason =&amp;nbsp;Citología&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="235" x="41.25" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="xXMeBKRR8OWkmtNRmmLZ-6" edge="1" parent="1" source="xXMeBKRR8OWkmtNRmmLZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="xXMeBKRR8OWkmtNRmmLZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXMeBKRR8OWkmtNRmmLZ-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="Cytology sample is marked as &lt;i&gt;Will never get results&lt;/i&gt;" vertex="1">
+          <mxGeometry height="70" width="130" x="93.75" y="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
