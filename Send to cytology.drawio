@@ -1,0 +1,192 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="YP7kIIQNfR1vj4lg6SZr">
+    <mxGraphModel dx="1003" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-1" edge="1" parent="1" source="bxFy7CaDPyTd94-P2SVN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bxFy7CaDPyTd94-P2SVN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Send to Cytology" vertex="1">
+          <mxGeometry height="70" width="200" x="375" y="70" as="geometry">
+            <mxRectangle height="30" width="120" x="220" y="400" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-3" parent="bxFy7CaDPyTd94-P2SVN-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=2" value="&lt;span&gt;&amp;lt;Case Review Reason&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-5" edge="1" parent="1" source="bxFy7CaDPyTd94-P2SVN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bxFy7CaDPyTd94-P2SVN-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-6" connectable="0" parent="bxFy7CaDPyTd94-P2SVN-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.1111" y="-1" as="geometry">
+            <mxPoint x="20" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-7" edge="1" parent="1" source="bxFy7CaDPyTd94-P2SVN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bxFy7CaDPyTd94-P2SVN-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-8" connectable="0" parent="bxFy7CaDPyTd94-P2SVN-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.1857" y="2" as="geometry">
+            <mxPoint x="8" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="In case review?" vertex="1">
+          <mxGeometry height="80" width="80" x="435" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-10" edge="1" parent="1" source="bxFy7CaDPyTd94-P2SVN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bxFy7CaDPyTd94-P2SVN-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Add participant to case review" vertex="1">
+          <mxGeometry height="60" width="120" x="245" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-12" edge="1" parent="1" source="bxFy7CaDPyTd94-P2SVN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bxFy7CaDPyTd94-P2SVN-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-13" connectable="0" parent="bxFy7CaDPyTd94-P2SVN-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.2353" as="geometry">
+            <mxPoint x="-1" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-14" edge="1" parent="1" source="bxFy7CaDPyTd94-P2SVN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bxFy7CaDPyTd94-P2SVN-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-15" connectable="0" parent="bxFy7CaDPyTd94-P2SVN-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.5333" y="-4" as="geometry">
+            <mxPoint x="4" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-16" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="In colpo?" vertex="1">
+          <mxGeometry height="80" width="80" x="435" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-17" edge="1" parent="1" source="bxFy7CaDPyTd94-P2SVN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bxFy7CaDPyTd94-P2SVN-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Add &lt;i&gt;&amp;lt;Case Review Reason&amp;gt;&lt;/i&gt; to case review session" vertex="1">
+          <mxGeometry height="60" width="170" x="220" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-38" edge="1" parent="1" source="bxFy7CaDPyTd94-P2SVN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bxFy7CaDPyTd94-P2SVN-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Add Case Review Decision of &lt;i&gt;Needs Cytology Visit &lt;/i&gt;with EPD=today" vertex="1">
+          <mxGeometry height="80" width="120" x="100" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-21" edge="1" parent="1" source="bxFy7CaDPyTd94-P2SVN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bxFy7CaDPyTd94-P2SVN-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-22" connectable="0" parent="bxFy7CaDPyTd94-P2SVN-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.4444" y="-5" as="geometry">
+            <mxPoint x="20" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-23" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Already has &lt;i&gt;&amp;lt;Case Review Reason&amp;gt;&lt;/i&gt;?" vertex="1">
+          <mxGeometry height="110" width="100" x="425" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-24" edge="1" parent="1" source="bxFy7CaDPyTd94-P2SVN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bxFy7CaDPyTd94-P2SVN-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-25" connectable="0" parent="bxFy7CaDPyTd94-P2SVN-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.4754" y="1" as="geometry">
+            <mxPoint x="1" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Done" vertex="1">
+          <mxGeometry height="40" width="90" x="360" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-34" edge="1" parent="1" source="bxFy7CaDPyTd94-P2SVN-33" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="395" y="1090" as="sourcePoint" />
+            <mxPoint x="405" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Back to caller" vertex="1">
+          <mxGeometry height="30" width="80" x="365" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-36" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bxFy7CaDPyTd94-P2SVN-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="475" y="10" as="sourcePoint" />
+            <mxPoint x="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-45" edge="1" parent="1" source="bxFy7CaDPyTd94-P2SVN-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bxFy7CaDPyTd94-P2SVN-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-46" connectable="0" parent="bxFy7CaDPyTd94-P2SVN-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.48" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-56" edge="1" parent="1" source="bxFy7CaDPyTd94-P2SVN-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bxFy7CaDPyTd94-P2SVN-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-58" connectable="0" parent="bxFy7CaDPyTd94-P2SVN-56" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.8715" y="-2" as="geometry">
+            <mxPoint x="-3" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-40" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Open colpo window?" vertex="1">
+          <mxGeometry height="80" width="80" x="590" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-50" edge="1" parent="1" source="bxFy7CaDPyTd94-P2SVN-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bxFy7CaDPyTd94-P2SVN-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-55" connectable="0" parent="bxFy7CaDPyTd94-P2SVN-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.4286" y="-1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-59" edge="1" parent="1" source="bxFy7CaDPyTd94-P2SVN-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bxFy7CaDPyTd94-P2SVN-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="940" />
+              <mxPoint x="405" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-60" connectable="0" parent="bxFy7CaDPyTd94-P2SVN-59" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.7642" y="1" as="geometry">
+            <mxPoint x="9" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-44" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Already has cytology flag?" vertex="1">
+          <mxGeometry height="100" width="100" x="580" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-57" edge="1" parent="1" source="bxFy7CaDPyTd94-P2SVN-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bxFy7CaDPyTd94-P2SVN-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Add cytology flag to colpo decision" vertex="1">
+          <mxGeometry height="60" width="90" x="450" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-62" edge="1" parent="1" source="bxFy7CaDPyTd94-P2SVN-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bxFy7CaDPyTd94-P2SVN-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-63" connectable="0" parent="bxFy7CaDPyTd94-P2SVN-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.5143" y="-3" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-64" edge="1" parent="1" source="bxFy7CaDPyTd94-P2SVN-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bxFy7CaDPyTd94-P2SVN-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-65" connectable="0" parent="bxFy7CaDPyTd94-P2SVN-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.44" y="-5" as="geometry">
+            <mxPoint x="-58" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bxFy7CaDPyTd94-P2SVN-61" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Has open cytology window?" vertex="1">
+          <mxGeometry height="90" width="90" x="230" y="680" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
