@@ -1,0 +1,145 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="0a2s4TUikL7m-ZMTe_NI">
+    <mxGraphModel dx="1088" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JUFHqkf4ZYM27ucJ79oH-13" edge="1" parent="1" source="JUFHqkf4ZYM27ucJ79oH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dbru6qdEYBAujOEHA1Ok-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="653.75" y="569" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUFHqkf4ZYM27ucJ79oH-14" connectable="0" parent="JUFHqkf4ZYM27ucJ79oH-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.15" y="-2" as="geometry">
+            <mxPoint x="-20" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUFHqkf4ZYM27ucJ79oH-15" edge="1" parent="1" source="JUFHqkf4ZYM27ucJ79oH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dbru6qdEYBAujOEHA1Ok-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="529" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUFHqkf4ZYM27ucJ79oH-16" connectable="0" parent="JUFHqkf4ZYM27ucJ79oH-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.2" y="-5" as="geometry">
+            <mxPoint x="37" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUFHqkf4ZYM27ucJ79oH-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Participant in colpo?" vertex="1">
+          <mxGeometry height="90" width="96" x="470" y="449" as="geometry" />
+        </mxCell>
+        <mxCell id="w8_1AA-5tbunUWdb11Tk-4" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="663.75" y="545.25" as="sourcePoint" />
+            <mxPoint x="663.75" y="545.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w8_1AA-5tbunUWdb11Tk-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Condition = Participant in Colposcopy&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Outcome = Set case review to Pending Release&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="230" x="533.75" y="659" as="geometry" />
+        </mxCell>
+        <mxCell id="w8_1AA-5tbunUWdb11Tk-14" edge="1" parent="1" source="w8_1AA-5tbunUWdb11Tk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="w8_1AA-5tbunUWdb11Tk-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w8_1AA-5tbunUWdb11Tk-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="do nothing" vertex="1">
+          <mxGeometry height="60" width="120" x="391.25" y="909" as="geometry" />
+        </mxCell>
+        <mxCell id="w8_1AA-5tbunUWdb11Tk-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Condition = Case review samples awaiting results&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Outcome = No action needed&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="210" x="346.25" y="999" as="geometry" />
+        </mxCell>
+        <mxCell id="w8_1AA-5tbunUWdb11Tk-64" edge="1" parent="1" source="w8_1AA-5tbunUWdb11Tk-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dbru6qdEYBAujOEHA1Ok-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w8_1AA-5tbunUWdb11Tk-63" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" value="RTT-ELP is authorized" vertex="1">
+          <mxGeometry height="70" width="117.5" x="346.25" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w8_1AA-5tbunUWdb11Tk-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;Authorized RTT-ELP Automation Ruleset&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="30" width="830" x="10" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-2" edge="1" parent="1" source="Dbru6qdEYBAujOEHA1Ok-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dbru6qdEYBAujOEHA1Ok-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-6" connectable="0" parent="Dbru6qdEYBAujOEHA1Ok-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.4057" y="-2" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-7" edge="1" parent="1" source="Dbru6qdEYBAujOEHA1Ok-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JUFHqkf4ZYM27ucJ79oH-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="210" as="sourcePoint" />
+            <mxPoint x="640" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-8" connectable="0" parent="Dbru6qdEYBAujOEHA1Ok-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.7895" y="2" as="geometry">
+            <mxPoint x="-2" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;spacingLeft=17;spacingRight=15;spacingTop=3;" value="Participant has case review session?" vertex="1">
+          <mxGeometry height="100" width="110" x="350" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-3" edge="1" parent="1" source="Dbru6qdEYBAujOEHA1Ok-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dbru6qdEYBAujOEHA1Ok-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="do nothing" vertex="1">
+          <mxGeometry height="60" width="120" x="181.25" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Condition = No case review session&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Outcome = No action needed&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="210" x="136.25" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-10" edge="1" parent="1" source="Dbru6qdEYBAujOEHA1Ok-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="w8_1AA-5tbunUWdb11Tk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Set case review status = &lt;i&gt;Pending Release&lt;/i&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="588.75" y="559" as="geometry" />
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-12" edge="1" parent="1" source="Dbru6qdEYBAujOEHA1Ok-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="w8_1AA-5tbunUWdb11Tk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-13" connectable="0" parent="Dbru6qdEYBAujOEHA1Ok-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.6236" y="1" as="geometry">
+            <mxPoint x="-35" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-19" edge="1" parent="1" source="Dbru6qdEYBAujOEHA1Ok-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dbru6qdEYBAujOEHA1Ok-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-20" connectable="0" parent="Dbru6qdEYBAujOEHA1Ok-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.4956" y="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Case review samples awaiting results?" vertex="1">
+          <mxGeometry height="100" width="106.75" x="277.88" y="559" as="geometry" />
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-14" edge="1" parent="1" source="Dbru6qdEYBAujOEHA1Ok-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dbru6qdEYBAujOEHA1Ok-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Add decision of &lt;i&gt;Exit Case Review&lt;/i&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="151.25" y="749" as="geometry" />
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-16" edge="1" parent="1" source="Dbru6qdEYBAujOEHA1Ok-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dbru6qdEYBAujOEHA1Ok-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Set case review status = Completed" vertex="1">
+          <mxGeometry height="60" width="120" x="151.25" y="829" as="geometry" />
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-22" edge="1" parent="1" source="Dbru6qdEYBAujOEHA1Ok-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Dbru6qdEYBAujOEHA1Ok-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Set case review end date = today" vertex="1">
+          <mxGeometry height="60" width="120" x="151.25" y="909" as="geometry" />
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Condition = No case review samples awaiting results&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Outcome = End case review&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="210" x="106.25" y="999" as="geometry" />
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-24" edge="1" parent="1" source="Dbru6qdEYBAujOEHA1Ok-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Dbru6qdEYBAujOEHA1Ok-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dbru6qdEYBAujOEHA1Ok-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Remove cytology window" vertex="1">
+          <mxGeometry height="60" width="120" x="151.25" y="669" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
