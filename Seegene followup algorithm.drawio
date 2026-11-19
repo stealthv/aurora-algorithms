@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="774" dy="2029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1949" dy="2415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -44,7 +44,7 @@
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-12" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="44WqwimqR0yRl96muIG6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="44WqwimqR0yRl96muIG6-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="-570" as="targetPoint" />
+            <mxPoint x="680" y="-570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-16" connectable="0" parent="44WqwimqR0yRl96muIG6-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
@@ -54,7 +54,7 @@
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-14" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="44WqwimqR0yRl96muIG6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="44WqwimqR0yRl96muIG6-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="-420" as="targetPoint" />
+            <mxPoint x="800" y="-420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-15" connectable="0" parent="44WqwimqR0yRl96muIG6-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
@@ -63,11 +63,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-11" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;" value="Positive for HR HPV?" vertex="1">
-          <mxGeometry height="80" width="80" x="610" y="-550" as="geometry" />
+          <mxGeometry height="80" width="80" x="760" y="-550" as="geometry" />
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-18" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="44WqwimqR0yRl96muIG6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="44WqwimqR0yRl96muIG6-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="-360" as="targetPoint" />
+            <mxPoint x="620" y="-360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-19" connectable="0" parent="44WqwimqR0yRl96muIG6-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
@@ -75,9 +75,9 @@
             <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="44WqwimqR0yRl96muIG6-20" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="44WqwimqR0yRl96muIG6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="44WqwimqR0yRl96muIG6-23">
+        <mxCell id="44WqwimqR0yRl96muIG6-20" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="44WqwimqR0yRl96muIG6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="r2SABs_jE6F3ujfLsaOd-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="-570" as="targetPoint" />
+            <mxPoint x="510" y="-570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-21" connectable="0" parent="44WqwimqR0yRl96muIG6-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
@@ -86,28 +86,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-17" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;" value="Positive for LR HPV?" vertex="1">
-          <mxGeometry height="80" width="80" x="330" y="-550" as="geometry" />
+          <mxGeometry height="80" width="80" x="480" y="-550" as="geometry" />
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-22" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="44WqwimqR0yRl96muIG6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;" target="44WqwimqR0yRl96muIG6-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-23" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;" value="do nothing" vertex="1">
-          <mxGeometry height="40" width="80" x="80" y="-490" as="geometry" />
+          <mxGeometry height="40" width="80" x="-12.5" y="-330" as="geometry" />
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-24" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Condition = No persistence&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Outcome = No action needed&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="175" x="32.5" y="-430" as="geometry" />
+          <mxGeometry height="60" width="175" x="-60" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-26" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="44WqwimqR0yRl96muIG6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="44WqwimqR0yRl96muIG6-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="-280" as="targetPoint" />
+            <mxPoint x="800" y="-280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-25" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="Check last Seegene result that is not &#39;will never have results&#39;" vertex="1">
-          <mxGeometry height="80" width="120" x="590" y="-400" as="geometry" />
+          <mxGeometry height="80" width="120" x="740" y="-400" as="geometry" />
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-30" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="44WqwimqR0yRl96muIG6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="44WqwimqR0yRl96muIG6-37">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="-100" as="targetPoint" />
+            <mxPoint x="800" y="-240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-31" connectable="0" parent="44WqwimqR0yRl96muIG6-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
@@ -124,34 +124,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-27" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;" value="Persistent positive for HR HPV?" vertex="1">
-          <mxGeometry height="90" width="90" x="605" y="-260" as="geometry" />
+          <mxGeometry height="90" width="90" x="755" y="-270" as="geometry" />
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-34" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="655" y="-83.75" as="sourcePoint" />
-            <mxPoint x="655" y="-83.75" as="targetPoint" />
+            <mxPoint x="805" y="-83.75" as="sourcePoint" />
+            <mxPoint x="805" y="-83.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-35" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Condition = Persistent HR oncogenic HPV&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Outcome =&amp;nbsp;&lt;/span&gt;Send to Colposcopy&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="245" x="527.5" y="30" as="geometry" />
+          <mxGeometry height="80" width="245" x="677.5" y="230" as="geometry" />
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-36" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="44WqwimqR0yRl96muIG6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;" target="44WqwimqR0yRl96muIG6-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-37" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; text-align: center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Send to Colpo&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;Case Review Reason = Persistencia VPH Oncogénico Vacunal&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;br&gt;&lt;div&gt;Colpo Aim = Lesions&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="257.5" x="521.25" y="-90" as="geometry" />
+          <mxGeometry height="100" width="257.5" x="671.25" y="-90" as="geometry" />
         </mxCell>
-        <mxCell id="44WqwimqR0yRl96muIG6-41" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="44WqwimqR0yRl96muIG6-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="44WqwimqR0yRl96muIG6-40">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="44WqwimqR0yRl96muIG6-41" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="44WqwimqR0yRl96muIG6-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KLnYHQnBs7XE384flcwx-0">
+          <mxGeometry relative="1" x="-0.3878" as="geometry">
+            <mxPoint x="560" y="-270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="44WqwimqR0yRl96muIG6-39" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="Check TypeSeq2 results from the last two base study visits for which we have TypeSeq2 results" vertex="1">
-          <mxGeometry height="80" width="140" x="300" y="-400" as="geometry" />
+        <mxCell id="44WqwimqR0yRl96muIG6-39" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="Check last two Seegene results that are not &#39;will never have results&#39;" vertex="1">
+          <mxGeometry height="80" width="140" x="450" y="-400" as="geometry" />
         </mxCell>
-        <mxCell id="44WqwimqR0yRl96muIG6-42" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="44WqwimqR0yRl96muIG6-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="44WqwimqR0yRl96muIG6-23">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="44WqwimqR0yRl96muIG6-42" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="44WqwimqR0yRl96muIG6-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="r2SABs_jE6F3ujfLsaOd-13">
+          <mxGeometry relative="1" x="0.247" as="geometry" />
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-43" connectable="0" parent="44WqwimqR0yRl96muIG6-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
-          <mxGeometry relative="1" x="-0.8774" y="1" as="geometry">
+          <mxGeometry relative="1" x="-0.647" y="1" as="geometry">
             <mxPoint x="13" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -164,22 +166,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-40" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;" value="Persistent positive for LR HPV?" vertex="1">
-          <mxGeometry height="90" width="90" x="325" y="-260" as="geometry" />
+          <mxGeometry height="90" width="90" x="475" y="-140" as="geometry" />
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-80" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="367.5" y="-93.75" as="sourcePoint" />
-            <mxPoint x="367.5" y="-93.75" as="targetPoint" />
+            <mxPoint x="517.5" y="26.25" as="sourcePoint" />
+            <mxPoint x="517.5" y="26.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-81" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Condition = Persistent LR oncogenic HPV&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Outcome =&amp;nbsp;&lt;/span&gt;Send for Cytology Sample&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="245" x="247.5" y="30" as="geometry" />
+          <mxGeometry height="80" width="245" x="397.5" y="230" as="geometry" />
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-82" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="44WqwimqR0yRl96muIG6-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;" target="44WqwimqR0yRl96muIG6-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-83" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; text-align: center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Send to Cytology&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;Case Review Reason = Algoritmo bajo riesgo oncogénico con citología&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="235" x="252.5" y="-90" as="geometry" />
+          <mxGeometry height="80" width="235" x="402.5" y="30" as="geometry" />
         </mxCell>
         <mxCell id="44WqwimqR0yRl96muIG6-87" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;Seegene Followup&amp;nbsp;Automation Ruleset&lt;/h1&gt;" vertex="1">
           <mxGeometry height="30" width="810" x="10" y="-1136" as="geometry" />
@@ -193,14 +195,14 @@
         <mxCell id="fKag7cjF9FZ6jhQJymNg-1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=card;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffff88;strokeColor=#36393d;" value="This ruleset is specifically for samples taken at followup visits. Samples taken at the enrollment visit are handled in a different ruleset. Samples taken at the final visit will likely have a different ruleset." vertex="1">
           <mxGeometry height="86" width="160" x="70" y="-1096" as="geometry" />
         </mxCell>
-        <mxCell id="fKag7cjF9FZ6jhQJymNg-6" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fKag7cjF9FZ6jhQJymNg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fKag7cjF9FZ6jhQJymNg-3">
+        <mxCell id="fKag7cjF9FZ6jhQJymNg-6" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fKag7cjF9FZ6jhQJymNg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;" target="fKag7cjF9FZ6jhQJymNg-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fKag7cjF9FZ6jhQJymNg-2" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;" value="do nothing" vertex="1">
           <mxGeometry height="40" width="80" x="640" y="-990" as="geometry" />
         </mxCell>
         <mxCell id="fKag7cjF9FZ6jhQJymNg-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Condition = Will never have results&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Outcome = No action needed&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="175" x="592.5" y="-920" as="geometry" />
+          <mxGeometry height="60" width="175" x="592.5" y="-910" as="geometry" />
         </mxCell>
         <mxCell id="r2SABs_jE6F3ujfLsaOd-1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="r2SABs_jE6F3ujfLsaOd-5">
           <mxGeometry relative="1" x="-0.3394" as="geometry">
@@ -225,27 +227,27 @@
         <mxCell id="r2SABs_jE6F3ujfLsaOd-5" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Run first collection ruleset&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="235" x="80" y="-780" as="geometry" />
         </mxCell>
-        <mxCell id="r2SABs_jE6F3ujfLsaOd-11" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2SABs_jE6F3ujfLsaOd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="r2SABs_jE6F3ujfLsaOd-10">
+        <mxCell id="r2SABs_jE6F3ujfLsaOd-11" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2SABs_jE6F3ujfLsaOd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="r2SABs_jE6F3ujfLsaOd-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r2SABs_jE6F3ujfLsaOd-12" connectable="0" parent="r2SABs_jE6F3ujfLsaOd-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="No" vertex="1">
-          <mxGeometry relative="1" x="-0.3714" y="1" as="geometry">
+          <mxGeometry relative="1" x="-0.0095" y="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r2SABs_jE6F3ujfLsaOd-14" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2SABs_jE6F3ujfLsaOd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="r2SABs_jE6F3ujfLsaOd-13" value="">
+        <mxCell id="r2SABs_jE6F3ujfLsaOd-14" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2SABs_jE6F3ujfLsaOd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="44WqwimqR0yRl96muIG6-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r2SABs_jE6F3ujfLsaOd-15" connectable="0" parent="r2SABs_jE6F3ujfLsaOd-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="Yes" vertex="1">
-          <mxGeometry relative="1" x="-0.6531" y="-1" as="geometry">
+          <mxGeometry relative="1" x="-0.427" y="-1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r2SABs_jE6F3ujfLsaOd-6" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Do all previous Seegene samples have final results?" vertex="1">
-          <mxGeometry height="130" width="140" x="520" y="-690" as="geometry" />
+          <mxGeometry height="130" width="140" x="400" y="-690" as="geometry" />
         </mxCell>
-        <mxCell id="r2SABs_jE6F3ujfLsaOd-10" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Pause ruleset" vertex="1">
-          <mxGeometry height="50" width="110" x="315" y="-670" as="geometry" />
+        <mxCell id="r2SABs_jE6F3ujfLsaOd-10" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Block ruleset" vertex="1">
+          <mxGeometry height="50" width="110" x="130" y="-650" as="geometry" />
         </mxCell>
         <mxCell id="r2SABs_jE6F3ujfLsaOd-19" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2SABs_jE6F3ujfLsaOd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="r2SABs_jE6F3ujfLsaOd-18">
           <mxGeometry relative="1" as="geometry" />
@@ -255,28 +257,30 @@
             <mxPoint x="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r2SABs_jE6F3ujfLsaOd-26" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2SABs_jE6F3ujfLsaOd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="44WqwimqR0yRl96muIG6-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="r2SABs_jE6F3ujfLsaOd-26" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2SABs_jE6F3ujfLsaOd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="44WqwimqR0yRl96muIG6-23">
+          <mxGeometry relative="1" x="-0.0418" as="geometry">
+            <mxPoint x="130" y="-250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="r2SABs_jE6F3ujfLsaOd-27" connectable="0" parent="r2SABs_jE6F3ujfLsaOd-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="No" vertex="1">
-          <mxGeometry relative="1" x="-0.6742" y="1" as="geometry">
+          <mxGeometry relative="1" x="-0.7701" y="1" as="geometry">
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r2SABs_jE6F3ujfLsaOd-13" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Positive for HPV 6 or 11?" vertex="1">
-          <mxGeometry height="80" width="97.5" x="878.75" y="-550" as="geometry" />
+          <mxGeometry height="80" width="97.5" x="171.25" y="-550" as="geometry" />
         </mxCell>
         <mxCell id="r2SABs_jE6F3ujfLsaOd-16" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.31;size=30;position=0.4;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="does the first collection ruleset run if all previous samples are marked will not have results?" vertex="1">
           <mxGeometry height="120" width="120" x="472.5" y="-970" as="geometry" />
         </mxCell>
         <mxCell id="r2SABs_jE6F3ujfLsaOd-17" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=wedgeCallout;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="All previous samples or just the last one?" vertex="1">
-          <mxGeometry height="80" width="120" x="605" y="-780" as="geometry" />
+          <mxGeometry height="80" width="120" x="500" y="-750" as="geometry" />
         </mxCell>
         <mxCell id="r2SABs_jE6F3ujfLsaOd-22" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2SABs_jE6F3ujfLsaOd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="r2SABs_jE6F3ujfLsaOd-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r2SABs_jE6F3ujfLsaOd-18" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="Check last Seegene result that is not &#39;will never have results&#39;" vertex="1">
-          <mxGeometry height="80" width="120" x="867.5" y="-400" as="geometry" />
+          <mxGeometry height="80" width="120" x="160" y="-400" as="geometry" />
         </mxCell>
         <mxCell id="r2SABs_jE6F3ujfLsaOd-24" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2SABs_jE6F3ujfLsaOd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="r2SABs_jE6F3ujfLsaOd-23">
           <mxGeometry relative="1" as="geometry" />
@@ -287,15 +291,35 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r2SABs_jE6F3ujfLsaOd-21" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;spacing=9;" value="Persistent positive for same HPV subtype (6 or 11)?" vertex="1">
-          <mxGeometry height="110" width="110" x="872.5" y="-260" as="geometry" />
+          <mxGeometry height="110" width="110" x="165" y="-280" as="geometry" />
         </mxCell>
-        <mxCell id="r2SABs_jE6F3ujfLsaOd-28" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2SABs_jE6F3ujfLsaOd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;">
-          <mxGeometry relative="1" x="0.0007" as="geometry">
-            <mxPoint x="790" y="-510" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="KLnYHQnBs7XE384flcwx-11" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r2SABs_jE6F3ujfLsaOd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;dashed=1;dashPattern=1 2;" target="KLnYHQnBs7XE384flcwx-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r2SABs_jE6F3ujfLsaOd-23" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; text-align: center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Send to Colpo&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;Case Review Reason = Persistent for 6 or 11&lt;/div&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;&lt;br&gt;&lt;div&gt;Colpo Aim = Warts&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="235" x="810" y="-90" as="geometry" />
+          <mxGeometry height="100" width="235" x="102.5" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="KLnYHQnBs7XE384flcwx-1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KLnYHQnBs7XE384flcwx-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="44WqwimqR0yRl96muIG6-40">
+          <mxGeometry relative="1" x="-0.0365" as="geometry" />
+        </mxCell>
+        <mxCell id="KLnYHQnBs7XE384flcwx-2" connectable="0" parent="KLnYHQnBs7XE384flcwx-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.1387" y="3" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLnYHQnBs7XE384flcwx-3" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KLnYHQnBs7XE384flcwx-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="r2SABs_jE6F3ujfLsaOd-13">
+          <mxGeometry relative="1" x="0.3291" as="geometry" />
+        </mxCell>
+        <mxCell id="KLnYHQnBs7XE384flcwx-4" connectable="0" parent="KLnYHQnBs7XE384flcwx-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.5808" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLnYHQnBs7XE384flcwx-0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;" value="Are there 2 previous results?" vertex="1">
+          <mxGeometry height="90" width="90" x="475" y="-270" as="geometry" />
+        </mxCell>
+        <mxCell id="KLnYHQnBs7XE384flcwx-10" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Condition = Persistent 6 or 11 HPV&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Outcome =&amp;nbsp;&lt;/span&gt;Send to Colposcopy&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="245" x="97.5" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
