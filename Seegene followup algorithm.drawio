@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1998" dy="2472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1947" dy="2415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -250,9 +250,6 @@
         </mxCell>
         <mxCell id="r2SABs_jE6F3ujfLsaOd-10" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Block ruleset" vertex="1">
           <mxGeometry height="50" width="110" x="130" y="-650" as="geometry" />
-        </mxCell>
-        <mxCell id="r2SABs_jE6F3ujfLsaOd-16" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.31;size=30;position=0.4;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="does the first collection ruleset run if all previous samples are marked will not have results?" vertex="1">
-          <mxGeometry height="120" width="120" x="472.5" y="-970" as="geometry" />
         </mxCell>
         <mxCell id="r2SABs_jE6F3ujfLsaOd-17" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=wedgeCallout;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="All previous samples or just the last one?" vertex="1">
           <mxGeometry height="80" width="120" x="500" y="-750" as="geometry" />
